@@ -14,5 +14,4 @@ I am an IT student and a Junior Game Developer currently specializing in **Open 
 
 ---
 
-### 📊 GitHub Stats
-![DecodeByMSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecodeByMSK&show_icons=true&theme=dark)
+
