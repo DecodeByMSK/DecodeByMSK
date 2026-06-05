@@ -1,10 +1,10 @@
 # Hi there, I'm Muhammad Shaheer Kifayat (DecodeByMSK) 👋
 
-I am an IT student and a Junior Game Developer currently specializing in **Unreal Engine** and **C++ core coding**. I'm passionate about building immersive experiences and optimizing game logic.
+I am an IT student and a Junior Game Developer currently specializing in **Open 3D Engine** and **C++ core coding**. I'm passionate about building immersive experiences and optimizing game logic.
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** C++, C#
-* **Engines:** Unreal Engine (Primary), Graphics APIs (Vulkan/OpenGL)
+* **Languages:** C++
+* **Engines:** O3de (Primary), Graphics APIs (Vulkan/OpenGL),Blender
 * **Systems:** Type 1 Hypervisors, Software Architecture
 
 ### 🌐 Connect with Me
